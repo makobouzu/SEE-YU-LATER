@@ -2,8 +2,8 @@
 The video projection system used in the "SEE YU LATER".
   
 ![touchdesigner](readme-img/touchdesigner.png "system screenshot")  
-<img height="230" alt="max" src="readme-img/max.png">
-<img height="230" alt="ndi camera" src="readme-img/ndi-camera.png">  
+<img height="220" alt="max" src="readme-img/max.png">
+<img height="220" alt="ndi camera" src="readme-img/ndi-camera.png">  
 
 ## PREPARE
 * MacBook Pro
