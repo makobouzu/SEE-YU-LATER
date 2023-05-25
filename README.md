@@ -37,7 +37,7 @@ A system that can be controlled from a MIDI controller was built in for switchin
 ![stage2](readme-img/stage2.jpg "stage2 photo")  
 
 ## Effects  
-<img height="300" alt="Perlin 3D Noise" src="readme-img/effects/1_noise.png"> <img height="300" alt="Radial Blur" src="readme-img/effects/2_radialblur.png">
-<img height="300" alt="Blur" src="readme-img/effects/3_blur.png"> <img height="300" alt="Tunnel" src="readme-img/effects/6_tunnel.png">
-<img height="300" alt="Twirl" src="readme-img/effects/4_twirl.png"> <img height="300" alt="Cache" src="readme-img/effects/5_cache.png">
-<img height="300" alt="Slit Scan" src="readme-img/effects/7_slitscan.png"> <img height="300" alt="Bloom" src="readme-img/effects/8_bloom.png">
+<img height="250" alt="Perlin 3D Noise" src="readme-img/effects/1_noise.png"> <img height="250" alt="Radial Blur" src="readme-img/effects/2_radialblur.png">
+<img height="250" alt="Blur" src="readme-img/effects/3_blur.png"> <img height="250" alt="Tunnel" src="readme-img/effects/6_tunnel.png">
+<img height="250" alt="Twirl" src="readme-img/effects/4_twirl.png"> <img height="250" alt="Cache" src="readme-img/effects/5_cache.png">
+<img height="250" alt="Slit Scan" src="readme-img/effects/7_slitscan.png"> <img height="250" alt="Bloom" src="readme-img/effects/8_bloom.png">
